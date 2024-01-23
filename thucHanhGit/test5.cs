@@ -9,5 +9,6 @@ namespace thucHanhGit
     internal class test5
     {
         //chan lam roi
+        //asdasdasdasdas
     }
 }
